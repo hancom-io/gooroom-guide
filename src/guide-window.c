@@ -167,7 +167,7 @@ static void
 guide_window_event_box_button_press_cb(GuideWindow *self, GtkEventBox *box)
 {
   if (self->index == self->total+1)
-    g_spawn_command_line_async ("/usr/bin/xdg-open https://www.gooroom.kr/", NULL);
+    g_spawn_command_line_async ("/usr/bin/xdg-open https://www.hancom.com/product/productGooroomMain.do", NULL);
 }
 
 static void
@@ -475,7 +475,7 @@ guide_window_new (GtkApplication *app)
   return g_object_new (GUIDE_WINDOW_TYPE,
                        "application", app,
                        "resizable", FALSE,
-                       "title", _("Gooroom Guide"),
+                       "title", _("Hancom Gooroom Guide"),
                        "icon-name", "gooroom-guide",
                        "window-position", GTK_WIN_POS_CENTER,
                        "show-menubar", FALSE,

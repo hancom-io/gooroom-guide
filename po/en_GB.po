@@ -29,8 +29,8 @@ msgid "Describes the features of the Hancom Gooroom platform"
 msgstr "Describes the features of the Hancom Gooroom platform"
 
 #: gooroom-guide.desktop.in.in:4 guide.ui:30
-msgid "Gooroom Guide"
-msgstr "Gooroom Guide"
+msgid "Hancom Gooroom Guide"
+msgstr "Hancom Gooroom Guide"
 
 #: guide.ui:209
 msgid "Close"
