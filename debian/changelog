@@ -1,3 +1,10 @@
+gooroom-guide (0.5.1+grm3u1+han3u1) unstable; urgency=medium
+
+  [ boyeon.choi ]
+  * [088614bc] [Bug:71,73,35] Changed the term from '구름' to '한컴구름'
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 20 Jun 2022 10:02:48 +0900
+
 gooroom-guide (0.5.0+grm3u1+han3u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
